@@ -1,4 +1,4 @@
-_Template - update with Adopted Date when TSC approves and send to operations@lfenergy.org to file_
+_Template - update with Adopted Date when TSC approves and send to operations@lfaidata.foundation to file_
 
 # Technical Charter (the "Charter") for [PROJECT NAME] a Series of LF Projects, LLC
 

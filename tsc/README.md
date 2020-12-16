@@ -17,16 +17,16 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [ ] Any third-party components/dependencies included are listed along with thier licenses ( example template at [THIRD_PARTY.md](../THIRD_PARTY.md) )
   - [ ] Governamce defined, outlining community roles and how decsions are made ( starting point at [GOVERNANCE.md](../GOVERNANCE.md) if needed ).
   - [ ] Contribution Policy defined ( CONTRIBUTING.md )
-  - [ ] Code of Conduct defined ( default is at [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) - if using a different code of conduct please contact [LFE Staff](mailto:operations@lfenergy.org) ).
+  - [ ] Code of Conduct defined ( default is at [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) - if using a different code of conduct please contact [LF AI and Data Staff](mailto:operations@lfaidata.foundation) ).
   - [ ] Release methodology defined ( [RELEASE.md](../RELEASE.md) )
 - New Project Goverance
   - [ ] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
   - [ ] First TSC meeting held ( [agenda](meetings) )
-  - [ ] TSC meeting cadence set and added to project calendar (https://lists.lfenergy.org/calendar)
+  - [ ] TSC meeting cadence set and added to project calendar (https://lists.lfaidata.foundation/calendar)
 - Infrastructure
-  - [ ] Source Control (Github, GitLab, something else ) and LFE Staff is an administrator.	
+  - [ ] Source Control (Github, GitLab, something else ) and LF AI and Data Staff is an administrator.	
     - [ ] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
-  - [ ] Issue/feature tracker (JIRA, GitHub issues)	and LFE Staff is an administrator.
+  - [ ] Issue/feature tracker (JIRA, GitHub issues)	and LF AI and Data Staff is an administrator.
   - Collaboration tools 
     - [ ] Mailing lists - one of: 
       - [ ] Create new list(s) ( default is -discussion@ and -private@ - create [service desk request] to provision ) 
@@ -39,11 +39,11 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 - Project assets
   - [ ] Domain name	( create [service desk request] to setup/transfer )
 	- [ ] Social media accounts	( create [service desk request] to setup/transfer )
-	- [ ] Logo(s)	( create [service desk request] to create]; will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
+	- [ ] Logo(s)	( create [service desk request] to create]; will be added to [artwork repo](https://artwork.lfaidata.foundation) in SVG and PNG format and color/black/white )
 	- [ ] Trademarks/mark ownership rights ( complete [LF Projects - Form of Trademark and Account Assignment](lf_projects_trademark_assignment.md) )
 - Outreach
   - [ ] New project annoucement done ( create [service desk request] to trigger )
-  - [ ] Project added to LF Energy website and LF Energy landscape
+  - [ ] Project added to LF AI and Data website and LF AI and Data landscape
 - Early Adoption requirements  
   - [ ] CII Badge achieved ( apply at https://bestpractices.coreinfrastructure.org/en )
   - [ ] Elect TSC Chairperson
@@ -64,5 +64,5 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [ ] Schedule presentation to TAC
   - [ ] TAC approval (2/3 required)
 
-[service desk request]: https://github.com/lf-energy/foundation/issues/new/choose
-[tac guidelines]: https://github.com/lf-energy/tac 
+[service desk request]: https://github.com/lfai/foundation/issues/new/choose
+[tac guidelines]: https://github.com/lfai/tac 

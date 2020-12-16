@@ -1,6 +1,6 @@
 ```gfm
 # insert project logo - replace the below logo location with the location of your logo
-![](https://github.com/lf-energy/artwork/blob/master/projects/PROJECT NAME/PROJECT NAME-color.svg)
+![](https://github.com/lfai/artwork/blob/master/projects/PROJECT NAME/PROJECT NAME-color.svg)
 ```
 
 ```gfm
@@ -25,14 +25,14 @@ _Provide build instructions here or point to an BUILD.md file_
 
 You can connect with the community in a variety of ways...
 
-- [LINK TO MAILING LIST](https://lists.lfenergy.org/g/xxxx-discussion)
-- [#PROJECT NAME channel on LF Energy Slack](https://slack.lfenergy.org)
+- [LINK TO MAILING LIST](https://lists.lfaidata.foundation/g/xxxx-discussion)
+- [#PROJECT NAME channel on LF AI and Data Slack](https://slack.lfaidata.foundation)
 
 ## Contributing
 Anyone can contribute to the PROJECT NAME project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Governance
-PROJECT NAME is a project hosted by the [LF Energy Foundation](https://lfenergy.org). This project's techincal charter is located in [CHARTER.md](tsc/CHARTER.md) and has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+PROJECT NAME is a project hosted by the [LF AI and Data Foundation](https://lfaidata.foundation). This project's techincal charter is located in [CHARTER.md](tsc/CHARTER.md) and has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Reporting Issues
-To report a problem, you can open an [issue](https://github.com/lf-energy/PROJECT NAME/issues) in repository against a specific workflow. If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email PROJECT NAME-private@lists.lfenergy.org.
+To report a problem, you can open an [issue](https://github.com/lfai/PROJECT NAME/issues) in repository against a specific workflow. If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email PROJECT NAME-private@lists.lfaidata.foundation.

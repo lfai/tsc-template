@@ -1,4 +1,4 @@
-*NOTE: This document is intended to provide an example governance structure for any LF Energy Foundation project to consider as a starting point. All projects hosted by LF Energy Foundation are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
+*NOTE: This document is intended to provide an example governance structure for any LF AI and Data Foundation project to consider as a starting point. All projects hosted by LF AI and Data Foundation are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
 
 # Overview
 
